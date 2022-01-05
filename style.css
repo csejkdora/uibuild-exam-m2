@@ -25,10 +25,6 @@ body {
     grid-template-columns: 1fr 9fr;
     width: 75%;
   }
-  #btn-send {
-    height: 75%;
-    width: 75%;
-  }
 }
 
 h1 {
